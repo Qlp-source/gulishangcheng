@@ -1,7 +1,7 @@
 # gulishangcheng
 谷粒商城2019 springcloud 完整项目
 
-视频：http://114.132.175.170:8081/qlpfile/guli.mp4
+视频：http://qlpqlp.top:8081/qlpfile/guli.mp4
 
 【功能点：基本和视频中一致，本人增加了重新上架商品 和 我的采购单 两个功能。没有其他额外功能】
 1、前台功能点
